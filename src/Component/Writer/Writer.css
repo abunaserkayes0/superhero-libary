@@ -1,0 +1,22 @@
+#card-container{
+    background-color: lightgreen ;
+    margin:1%;
+    padding-top:20px;
+}
+.cardImage-container{
+    width:100px;
+    height:100px;
+    margin:0 auto;
+}
+.cardImage-container img{
+    border-radius:50%;
+}
+.card-body{
+    text-align: center;
+}
+.social-icon a{
+    color:black;
+}
+.social-icon i{
+    margin:0 3%;
+}

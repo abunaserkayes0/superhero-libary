@@ -1,16 +1,19 @@
-.header-container{
-    background:linear-gradient(lightskyblue,lightgreen);
+.header-container {
+    background: linear-gradient(lightskyblue, lightgreen);
     text-align: center;
-    padding:10px;
+    padding: 10px;
 }
-.header-container h1{
-    font-size:3em;
+
+.header-container h1 {
+    font-size: 3em;
     font-weight: bold;
 }
-.header-container h2{
-    font-size:2em;
+
+.header-container h2 {
+    font-size: 2em;
     font-weight: bold;
 }
-.header-container p{
+
+.header-container p {
     font-weight: 600;
 }

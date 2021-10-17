@@ -1,9 +1,16 @@
-.container{
+.container-item {
     display: grid;
-    grid-template-columns: 4fr 1fr;
+    grid-template-columns: 3fr 1fr;
 }
-.writers-container{
+
+.writers-container {
     display: grid;
-    grid-template-columns: repeat(3,1fr);
-    
+    grid-template-columns: repeat(3, 1fr);
+
+}
+
+.writerCart-container {
+    background-color: lightpink;
+    margin-left: 3%;
+    text-align: center;
 }

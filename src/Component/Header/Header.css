@@ -3,7 +3,10 @@
     text-align: center;
     padding: 10px;
 }
-
+.header-container img{
+    width:150px;
+    height:80px;
+}
 .header-container h1 {
     font-size: 3em;
     font-weight: bold;
